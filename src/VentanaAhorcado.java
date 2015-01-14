@@ -8,7 +8,7 @@ import javax.swing.JButton;
  */
 
 /**
- *
+
  * @author MARCOS
  */
 public class VentanaAhorcado extends javax.swing.JFrame {
@@ -22,6 +22,7 @@ public class VentanaAhorcado extends javax.swing.JFrame {
 
     private void chequeaBoton(JButton botonPulsado){
         botonPulsado.setVisible(false);
+        
     }
     /**
      * This method is called from within the constructor to initialize the form.
