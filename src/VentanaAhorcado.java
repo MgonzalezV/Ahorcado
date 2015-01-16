@@ -8,7 +8,6 @@ import javax.swing.JButton;
  */
 
 /**
-
  * @author MARCOS
  */
 public class VentanaAhorcado extends javax.swing.JFrame {
