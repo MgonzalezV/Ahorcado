@@ -92,7 +92,7 @@ public class VentanaAhorcado extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("_ _ _ _ _");
-        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 11, 350, 81));
+        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 11, 350, 81));
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -334,7 +334,7 @@ public class VentanaAhorcado extends javax.swing.JFrame {
         getContentPane().add(jButton28, new org.netbeans.lib.awtextra.AbsoluteConstraints(358, 382, 40, 36));
 
         jLabel2.setText("0");
-        getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(360, 10, -1, -1));
+        getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(390, 10, 20, -1));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
